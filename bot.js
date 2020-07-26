@@ -514,53 +514,6 @@ function getRating(pokeInput) {
     return 0;
   }
   return undefined;
-
-  // for (let x = 0; x < eights.length; x++) {
-  //   if (commandName.includes(eights[x].toLowerCase())) {
-  //     return [8, eights[x]];
-  //   }
-  // }
-  // for (let x = 0; x < sevens.length; x++) {
-  //   if (commandName.includes(sevens[x].toLowerCase())) {
-  //     return [7, sevens[x]];
-  //   }
-  // }
-  // for (let x = 0; x < sixs.length; x++) {
-  //   if (commandName.includes(sixs[x].toLowerCase())) {
-  //     return [6, sixes[x]];
-  //   }
-  // }
-  // for (let x = 0; x < fives.length; x++) {
-  //   if (commandName.includes(fives[x].toLowerCase())) {
-  //     return [5, fives[x]];
-  //   }
-  // }
-  // for (let x = 0; x < fours.length; x++) {
-  //   if (commandName.includes(fours[x].toLowerCase())) {
-  //     return [4, fours[x]];
-  //   }
-  // }
-  // for (let x = 0; x < threes.length; x++) {
-  //   if (commandName.includes(threes[x].toLowerCase())) {
-  //     return 3;
-  //   }
-  // }
-  // for (let x = 0; x < twos.length; x++) {
-  //   if (commandName.includes(twos[x].toLowerCase())) {
-  //     return 2;
-  //   }
-  // }
-  // for (let x = 0; x < ones.length; x++) {
-  //   if (commandName.includes(ones[x].toLowerCase())) {
-  //     return 1;
-  //   }
-  // }
-  // for (let x = 0; x < zeros.length; x++) {
-  //   if (commandName.includes(zeros[x].toLowerCase())) {
-  //     return 0;
-  //   }
-  // }
-  // return -1;
 }
 // Called every time the bot connects to Twitch chat
 function onConnectedHandler(addr, port) {
