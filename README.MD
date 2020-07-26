@@ -1,4 +1,4 @@
-#julian's poke rating twitch bot
+# julian's poke rating twitch bot
 
 ## Setup
 
